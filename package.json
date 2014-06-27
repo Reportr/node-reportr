@@ -2,7 +2,7 @@
     "name": "reportr-api",
     "main": "./lib/index.js",
     "description": "Client API for Reportr",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "author": "samypesse@gmail.com",
     "homepage": "https://github.com/Reportr/node-reportr",
     "bugs": "https://github.com/Reportr/node-reportr/issues",
