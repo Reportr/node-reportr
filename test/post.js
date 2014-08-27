@@ -4,7 +4,10 @@ var Reportr = require("../lib");
 // Create a client instance
 var client = new Reportr({
     host: "http://localhost:5000",
-    auth: null
+    auth: {
+        username: "test",
+        password: "test"
+    }
 });
 
 // Post an event
