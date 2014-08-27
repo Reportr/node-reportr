@@ -12,7 +12,7 @@
     },
     "dependencies": {
         "q": "1.0.1",
-        "request": "2.36.0",
+        "unirest": "0.2.7",
         "lodash": "2.4.1"
     }
 }
